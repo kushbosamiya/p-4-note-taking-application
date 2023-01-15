@@ -18,9 +18,7 @@ Note taking app in react js using chakra ui with auto save functionality.
 
 ### Contact me
 
-<a href="mailto:rbosamiya9@gmail.com">
-<button>Email</button>
-</a>
+
 
 <a href="https://api.whatsapp.com/send?phone=918866669219&text=Hey!">
 <button>Chat</button>
